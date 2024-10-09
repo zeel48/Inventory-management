@@ -34,3 +34,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+The "Inventory-management" project is a Next.js application designed for inventory management purposes. It is a web application built using JavaScript and CSS, utilizing the Next.js framework for efficient development and deployment. The project setup includes standard configurations for Next.js, such as next/font for Google Font optimization and Tailwind CSS for styling. The code structure follows typical web application architecture, with components stored in organized directories. However, there is no detailed description or documentation explaining specific features or functionalities.
